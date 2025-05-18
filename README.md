@@ -53,18 +53,19 @@
 
 <p align="left">
 	<a href="https://leetcode.com/u/Yas_hU/" target="_blank">
-		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="leetcode" width="50"/>
+		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="LeetCode" width="50"/>
 	</a>
 	<a href="https://codeforces.com/profile/SyntaxSneeze" target="_blank">
-		<img src="https://codeforces.org/s/63722/images/codeforces-logo.svg" width="50" />
+		<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="50" />
 	</a>
 	<a href="https://www.geeksforgeeks.org/user/yash_kumar/" target="_blank">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50"/>
 	</a>
 	<a href="https://www.codechef.com/users/yashu05" target="_blank">
-		<img src="https://aditya-25-02.github.io/AdityaResume/Codechef.png" width="50"/>
+		<img src="https://aditya-25-02.github.io/AdityaResume/Codechef.png" alt="CodeChef" width="50"/>
 	</a>
 </p>
+
 
 ---
 
