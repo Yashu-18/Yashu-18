@@ -56,7 +56,7 @@
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="LeetCode" width="50"/>
 	</a>
 	<a href="https://codeforces.com/profile/SyntaxSneeze" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="50" />
+		<img src="https://sta.codeforces.com/s/85549/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="120"/>
 	</a>
 	<a href="https://www.geeksforgeeks.org/user/yash_kumar/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50"/>
